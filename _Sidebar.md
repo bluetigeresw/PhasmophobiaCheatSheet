@@ -1,8 +1,8 @@
 # Table of Contents
 * [Home] [home]
-* [Unique Ghost Behaviors] [uniquebehaviors]
-* [Ghost Events] [ghostevents]
-* [Hunting] [hunting]
+* ["Unique Ghost Behaviors"] [uniquebehaviors]
+* ["Ghost Events"] [ghostevents]
+* ["Hunting"] [hunting]
 * [Sanity Facts] [sanityfacts]
 * [Cursed Objects] [cursedobjects]
 
